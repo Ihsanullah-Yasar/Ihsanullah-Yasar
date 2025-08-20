@@ -1,74 +1,74 @@
-# 👋 Hi, I’m Ahsanullah
-
-A Software Engineer passionate about building scalable web and mobile applications with clean architecture.
-
----
+# 👋 Hi, I'm Ahsanullah, a Software Engineer passionate about building scalable web and mobile applications with clean architecture.
 
 ## 🚀 About Me
 
-- 💻 Developer focusing on **Fullstack Web & Mobile Development**
-- 🌍 Interested in **creating products that solve real-world problems**
-- 🤝 Open to **collaborations and exciting projects**
+I'm a dedicated **Full-Stack Developer** with a focus on creating robust, user-centric applications that solve real-world problems. My passion lies in **fullstack web & mobile development**, where I enjoy crafting seamless experiences from database to user interface. I'm always **open to collaborations** on exciting projects and love connecting with fellow developers to build something amazing together.
 
----
+## 🛠️ Tech Stack & Skills
 
-## 🛠 Tech Stack & Skills
+**Frontend Technologies**
 
-**Languages & Frameworks**  
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `PHP`  
-`React` • `Next.js` • `Node.js` • `Express.js`  
-`Laravel` • `Shadcn UI` • `Material UI` • `Tailwind CSS` • `Bootstrap`
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, Next.js
+- UI Libraries: ShadCN, Material-UI, Tailwind CSS, Bootstrap
 
-**Databases**  
-`SQL Server` • `MySQL` • `PostgreSQL` • `MongoDB`
+**Backend Technologies**
 
-**Currently Learning**  
-`React Native`
+- Node.js, Express.js
+- PHP, Laravel
+- RESTful APIs, GraphQL
 
-**DevOps & Tools**  
-`Docker` • `Kubernetes` • `Git` • `GitHub Actions`
+**Databases**
 
-**Other Expertise**  
-`REST APIs` • `GraphQL` • Authentication (`Keycloak`, `JWT`, `Spatie Permissions`)  
-`Stripe` integration • `Socket.io` • `React Query`
+- SQL Server, MySQL, PostgreSQL
+- MongoDB
 
----
+**Mobile Development**
+
+- React Native (Currently Learning)
+
+**DevOps & Tools**
+
+- Docker, Kubernetes
+- Git, GitHub Actions
+- Authentication: Keycloak, JWT, Spatie Permissions
+- Payment Integration: Stripe
+- Real-time Communication: Socket.io
+- Data Fetching: React Query
 
 ## 📊 GitHub Stats & Activity
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsanullah-Yasar&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsanullah-Yasar&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ihsanullah-Yasar&theme=tokyonight&hide_border=true)
+![Ahsanullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ihsanullah-Yasar&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsanullah-Yasar&layout=compact&theme=radical)
 
-## 🌟 Projects / Highlights
+## 🌟 Featured Projects
 
-### 🔹 [HR-IMS (Human Resource & Inventory Management System)](https://github.com/Ihsanullah-Yasar/HR--IMS)
+### [HR-IMS (Human Resource Information Management System)](https://github.com/Ihsanullah-Yasar/HR--IMS)
 
-A complete HR & inventory management solution designed with modern architecture and clean code practices.
+A comprehensive HR management solution built with modern web technologies, featuring employee management, attendance tracking, and administrative workflows.
 
-### 🔹 Ministry of Higher Education (Private Repo)
+### Ministry of Higher Education Platform
 
-A large-scale project for managing educational services and digital workflows. (Repo is private but demonstrates enterprise-grade skills.)
+A sophisticated educational management system designed for institutional administration and student services (Private Repository).
 
----
+## 🌱 Currently Learning & Exploring
 
-## 📚 Currently Exploring
+- **State Management**: Redux, Zustand
+- **Mobile Development**: React Native
+- **Advanced Architecture Patterns**
 
-- State management with **Redux** & **Zustand**
-- Cross-platform mobile apps with **React Native**
+## 📫 Let's Connect!
 
----
-
-## 🌐 Connect With Me
-
-- 📧 **Email:** ihsanullahyasar70@gmail.com
-- 🌍 **Facebook:** [Personal](https://www.facebook.com/ihsanullah.ihsan.7311352/?locale=fa_IR) | [Page](https://www.facebook.com/profile.php?id=61552065045162)
-- 🎵 **TikTok:** [ihsanullah_yasar](https://www.tiktok.com/@ihsanullah_yasar)
-
----
+- 📧 Email: [ihsanullahyasar70@gmail.com](mailto:ihsanullahyasar70@gmail.com)
+- 👤 Facebook: [Personal Profile](https://www.facebook.com/ihsanullah.ihsan.7311352/?locale=fa_IR)
+- 📄 Facebook Page: [Professional Page](https://www.facebook.com/profile.php?id=61552065045162)
+- 🎵 TikTok: [@ihsanullah_yasar](https://www.tiktok.com/@ihsanullah_yasar)
 
 ## ⚡ Fun Fact
 
-I solve Rubik’s cubes faster than some people debug CSS, and I love sharing coding tips on TikTok! 🎥🧑‍💻
+I solve Rubik's cubes and love sharing coding tips on TikTok – because who says programming can't be entertaining!
+
+---
+
+💡 _Always excited to discuss new technologies, collaborate on innovative projects, or just chat about code. Feel free to reach out!_
