@@ -112,4 +112,4 @@ I solve Rubik’s cubes faster than some people debug CSS, and I love sharing co
 ---
 
 📌 **Note**  
-My GitHub account was inactive for about a year. Recently, I reactivated it and I’m now actively contributing again — building projects, learning new technologies, and sharing my journey here. 🚀
+My GitHub account was inactive for about a year. Recently, I reactivated it and I’m now actively contributing again — building projects, learning new technologies, and sharing my journey here. 🚀⚡
