@@ -72,11 +72,14 @@ A Software Engineer passionate about building scalable web and mobile applicatio
 
 ## 📊 GitHub Stats & Activity
 
+<!-- GitHub Stats -->
 ![Ahsan's GitHub stats](https://github-readme-stats-git-master-ahsanullahs-projects-6f864fa5.vercel.app/api?username=Ihsanullah-Yasar&show_icons=true&theme=tokyonight&hide_border=true)
 
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats-git-master-ahsanullahs-projects-6f864fa5.vercel.app/api/top-langs/?username=Ihsanullah-Yasar&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats-git-master-ahsanullahs-projects-6f864fa5.vercel.app/?user=Ihsanullah-Yasar&theme=tokyonight&hide_border=true)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ihsanullah-Yasar&theme=tokyonight&hide_border=true)
 
 ---
 
