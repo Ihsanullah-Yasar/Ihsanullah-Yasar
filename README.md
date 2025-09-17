@@ -72,14 +72,28 @@ A Software Engineer passionate about building scalable web and mobile applicatio
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats -->
-![Ahsan's GitHub stats](https://github-readme-stats-git-master-ahsanullahs-projects-6f864fa5.vercel.app/api?username=Ihsanullah-Yasar&show_icons=true&theme=tokyonight&hide_border=true)
+I'm passionate about coding and contributing to open-source projects. Here's a snapshot of my GitHub activity:
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-master-ahsanullahs-projects-6f864fa5.vercel.app/api/top-langs/?username=Ihsanullah-Yasar&layout=compact&theme=tokyonight&hide_border=true)
+<div align="start">
+
+<!-- GitHub Stats Card (Fancy with icons and private counts) -->
+![ihsanullah-yasar's GitHub Stats](https://github-readme-stats-ten-kappa-42.vercel.app/api?username=ihsanullah-yasar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,prs&v=2)
+
+<!-- Top Languages Card (Compact and colorful) -->
+![Top Languages](https://github-readme-stats-ten-kappa-42.vercel.app/api/top-langs?username=ihsanullah-yasar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=2)
+
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ihsanullah-Yasar&theme=tokyonight&hide_border=true)
+
+<!-- Pinned Repos (Showcases your best work professionally) -->
+![Pinned Repos](https://github-readme-stats-ten-kappa-42.vercel.app/api/pin?username=ihsanullah-yasar&repo=HR--IMS&theme=tokyonight&hide_border=true&v=2)  
+<!-- *(Replace "your-best-repo-name" with an actual repo, e.g., a project you're proud of. Duplicate this line for multiple pins!)*-->
+
+</div>
+
+<!-- Contributions Graph (Fancy calendar view for activity overview) -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihsanullah-yasar&theme=github-dark&hide_border=true&color=ffffff&line=06d6a0&point=ffffff)
 
 ---
 
