@@ -99,7 +99,7 @@ I'm passionate about coding and contributing to open-source projects. Here's a s
 
 ## 🌟 Projects / Highlights
 
-### 🔹 [HR-IMS (Human Resource & Inventory Management System)](https://github.com/Ihsanullah-Yasar/HR--IMS)
+### 🔹 [HR-IMS (Human Resource Information Management System)](https://github.com/Ihsanullah-Yasar/HR--IMS)
 
 A complete HR & inventory management solution designed with modern architecture and clean code practices.
 
